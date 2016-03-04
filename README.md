@@ -1,6 +1,6 @@
-Fikirte Saketa
-3508 s 180th st, seatac, WA 98188
-206-779-5649 | Fikirte56@yahoo.com
+#Fikirte Saketa
+#3508 s 180th st, seatac, WA 98188
+#206-779-5649 | Fikirte56@yahoo.com
 
 Summary
 ------- 
@@ -45,15 +45,15 @@ Energetic, result-oriented and eager to learn. I want to escalate my IT knowledg
 +	Hands on bench experiments working on cloning, PCR, isolating DNA/RNA from bacteria and different cells, preparing and running gel, western blotting, qPCR, qrPCR, preparing media and petri dish with appropriate antibiotics to grow bacteria, cell culture.
 
 
->###Research Experience
-+	Worked with the Jaffe research group at University of Washington, Bothell
+###Research Experience
+>+	Worked with the Jaffe research group at University of Washington, Bothell
 Co-Authored on a research paper with Nicole Wigder and Professor Dan Jaffe "Ozone and Particulate Matter Enhancements from Regional Wildfires Observed at Mount Bachelor during 2004-2011" on MBO fires from 2004-2011. 
 +	Collected and analyzed data using trajectories to track smoke pollution from wildfires.
 +	Responsible for learning and training laboratory personnel in use of Trajstat software. 
 +	Extracted and manipulated data from large databases (HYSPLIT, FIRMS, NAAPS and MODIS).
 
->##Citation;-
-Wigder, N.L., Jaffe, D.A., Saketa, F.A. (2013), Ozone and Particulate Matter Enhancements from Regional Wildfires Observed at Mount Bachelor during 2004-2011, Atmos. Environ., doi: 10.1016/j.atmosenv.2013.04.026.
+##Citation;-
+>+Wigder, N.L., Jaffe, D.A., Saketa, F.A. (2013), Ozone and Particulate Matter Enhancements from Regional Wildfires Observed at Mount Bachelor during 2004-2011, Atmos. Environ., doi: 10.1016/j.atmosenv.2013.04.026.
 
 
 
