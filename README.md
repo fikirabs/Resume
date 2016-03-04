@@ -1,7 +1,7 @@
 Fikirte Saketa
 3508 s 180th st, seatac, WA 98188
 206-779-5649 | Fikirte56@yahoo.com
-====================================
+
 Summary
 ------- 
 Energetic, result-oriented and eager to learn. I want to escalate my IT knowledge through ADA and be able to contribute back to the community. My excellent organization, communication, and relationship building skills will help me be successful.
@@ -13,6 +13,7 @@ Energetic, result-oriented and eager to learn. I want to escalate my IT knowledg
 +	Maintained the front desk and reception area in a neat and organization fashion 
 +	Order supplies and acted as a primary point if contact with vendors
 +	General administration duties, photocopying, filing etc.
+
 >##UW Medicine, Cardiology, Seattle, WA | Laboratory Assistance, 01/2014- 09/2014
 +	Writing reports, attending seminars 
 +	Ordering lab equipment
@@ -25,9 +26,10 @@ Energetic, result-oriented and eager to learn. I want to escalate my IT knowledg
 +	Grading exams, quizzes and home works for General Biology and Chemistry
 +	Helping students on office hours
 
->++Baskin Robbins, Seattle, WA | Customer service and Casher, 06/2011– 05/2013
+>##Baskin Robbins, Seattle, WA | Customer service and Casher, 06/2011– 05/2013
 +	Cashier, Taking orders 
 +	Cleaned, mopped, dusted and maintained store cleanliness and safety
+
 ###Education 
 >##	University of Washington, Bothell, WA, March 2014, B.S in Biology 
 
@@ -43,7 +45,7 @@ Energetic, result-oriented and eager to learn. I want to escalate my IT knowledg
 +	Hands on bench experiments working on cloning, PCR, isolating DNA/RNA from bacteria and different cells, preparing and running gel, western blotting, qPCR, qrPCR, preparing media and petri dish with appropriate antibiotics to grow bacteria, cell culture.
 
 
-###Research Experience
+>###Research Experience
 +	Worked with the Jaffe research group at University of Washington, Bothell
 Co-Authored on a research paper with Nicole Wigder and Professor Dan Jaffe "Ozone and Particulate Matter Enhancements from Regional Wildfires Observed at Mount Bachelor during 2004-2011" on MBO fires from 2004-2011. 
 +	Collected and analyzed data using trajectories to track smoke pollution from wildfires.
