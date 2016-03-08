@@ -41,6 +41,7 @@ Energetic, result-oriented and eager to learn. I want to escalate my IT knowledg
 >##Highline medical center				Burien, WA 		2014-2015
 ##ER and Telemetry 
 +	Escorting patients and families, restocking patient’s room, serving ice and water for patients, answering phone calls, organizing patients file, transporting lab specimens, serving foods for patients.  
+
 >##UW Medicine Cardiology                    		Seattle, WA	09/2013- 01/2014
 +	Hands on bench experiments working on cloning, PCR, isolating DNA/RNA from bacteria and different cells, preparing and running gel, western blotting, qPCR, qrPCR, preparing media and petri dish with appropriate antibiotics to grow bacteria, cell culture.
 
