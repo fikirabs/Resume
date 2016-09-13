@@ -8,12 +8,9 @@ Energetic, result-oriented and eager to learn. I want to escalate my IT knowledg
 
 ###Experience
 >##Firefly	car rental, Seatac, WA | Front desk representative, 09/2014- 09/2015
-+	Meeting and greeting customers.
-+	Answering all incoming calls and Assisting customers with rent
-+	Maintained the front desk and reception area in a neat and organization fashion 
-+	Order supplies and acted as a primary point if contact with vendors
-+	General administration duties, photocopying, filing etc.
-
++	Meeting and greeting customers. Answering all incoming calls and Assisting customers with rent.
++	Order supplies and acted as a primary point if contact with vendors. General administration duties, photocopying, filing etc.
++ Fleet system control including exchanging cars with sister rental companies.
 >##UW Medicine, Cardiology, Seattle, WA | Laboratory Assistance, 01/2014- 09/2014
 +	Writing reports, attending seminars 
 +	Ordering lab equipment
@@ -24,7 +21,7 @@ Energetic, result-oriented and eager to learn. I want to escalate my IT knowledg
 
 >##University of Washington, Bothell, WA | Grader and reader, 01/2014 – 06/2014
 +	Grading exams, quizzes and home works for General Biology and Chemistry
-+	Helping students on office hours
++	Helping students at office hours
 
 >##Baskin Robbins, Seattle, WA | Customer service and Casher, 06/2011– 05/2013
 +	Cashier, Taking orders 
@@ -34,7 +31,7 @@ Energetic, result-oriented and eager to learn. I want to escalate my IT knowledg
 >##	University of Washington, Bothell, WA, March 2014, B.S in Biology 
 
 ###Volunteer/internship Experience
->##Swedish Edmond Hospital Edmond, WA|2011
+>##Swedish Edmonds Hospital Edmonds, WA|2011
 ##Breast center pavilion
 +	Answering phone calls, Appointment reminder calls, making appointment, greeting patients at the entrance and help them to get ready
 
